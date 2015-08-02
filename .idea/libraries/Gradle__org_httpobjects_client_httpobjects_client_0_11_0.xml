@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.httpobjects.client:httpobjects-client:0.11.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.httpobjects.client/httpobjects-client/0.11.0/302b37c34e4c8c78be8b8dafd8898e5a0413a73e/httpobjects-client-0.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.httpobjects.client/httpobjects-client/0.11.0/5dad454f1f77fa0b2c7015e3dcb5b3f46c1a6cb4/httpobjects-client-0.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

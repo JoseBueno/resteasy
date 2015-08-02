@@ -23,5 +23,8 @@
     <orderEntry type="library" exported="" name="Gradle: javax.servlet:servlet-api:2.4" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.apache.httpcomponents:httpmime:4.2.3" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.apache.httpcomponents:httpcore:4.2.2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.httpobjects.apache-httpclient-4.x:httpobjects-apache-httpclient-4.x:0.11.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.httpobjects.client:httpobjects-client:0.11.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.httpobjects:httpobjects:0.11.0" level="project" />
   </component>
 </module>
