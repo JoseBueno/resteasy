@@ -1,3 +1,7 @@
+package org.bueno.jose.resteasy;
+
+import org.bueno.jose.resteasy.RESTAction;
+
 import java.lang.String;
 
 public class RESTActionGET extends RESTAction {

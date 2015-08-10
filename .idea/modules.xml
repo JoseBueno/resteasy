@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/REST Easy.iml" filepath="$PROJECT_DIR$/REST Easy.iml" />
       <module fileurl="file://$PROJECT_DIR$/resteasy.iml" filepath="$PROJECT_DIR$/resteasy.iml" />
     </modules>
   </component>

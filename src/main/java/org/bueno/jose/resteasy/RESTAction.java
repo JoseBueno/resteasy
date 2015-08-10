@@ -1,3 +1,5 @@
+package org.bueno.jose.resteasy;
+
 public abstract class RESTAction{
 
     String[] queryString;

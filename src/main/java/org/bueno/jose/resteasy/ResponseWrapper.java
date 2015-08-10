@@ -1,3 +1,5 @@
+package org.bueno.jose.resteasy;
+
 import java.lang.Exception;
 
 public class ResponseWrapper{
